@@ -1,0 +1,15 @@
+package in.raghab.beans;
+
+import in.raghab.strategyDP.IPartner;
+
+//target class
+public class BoyFriend {
+	private IPartner girlFriend;
+
+	public BoyFriend(IPartner girlFriend) {
+		super();
+		System.out.println("BoyFriend::1-Arg Constructor");
+		this.girlFriend = girlFriend;
+	}
+	
+}

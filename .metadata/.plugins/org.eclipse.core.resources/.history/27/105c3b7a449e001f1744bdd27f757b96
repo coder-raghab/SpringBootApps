@@ -1,0 +1,12 @@
+package in.raghab.beans;
+
+import in.raghab.beans.service.IPrinter;
+
+public class Computer {
+	private IPrinter printer;
+	public void setPrinter(IPrinter printer) {
+		this.printer = printer;
+	}
+	
+	
+}

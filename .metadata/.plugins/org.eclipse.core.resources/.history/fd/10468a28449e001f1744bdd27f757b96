@@ -1,0 +1,25 @@
+package in.raghab.beans;
+
+import in.raghab.beans.service.IPrinter;
+
+public class ATM {
+	private IPrinter printer;
+	
+	
+	public ATM(IPrinter printer) {
+		super();
+		this.printer = printer;
+		System.out.println("ATM::1-arg Constructor");
+	}
+
+
+	public void setPrinter(IPrinter printer) {
+		this.printer = printer;
+	}
+	public void withdraw() {
+		System.out.println("Money withdrawing..");
+		printer.print();
+	}
+	
+	
+}

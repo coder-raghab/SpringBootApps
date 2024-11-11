@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;05_SpringCoreApp_AutoWiring&apos; to &apos;07_SpringCoreApp_AutoWiring&apos;&#x0D;&#x0A;- Original element: &apos;05_SpringCoreApp_AutoWiring&apos;&#x0D;&#x0A;- Renamed element: &apos;05_SpringCoreApp_AutoWiring&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;05_SpringCoreApp_AutoWiring&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=05_SpringCoreApp_AutoWiring" name="07_SpringCoreApp_AutoWiring" references="true" stamp="1731118527238" version="1.0"/>
+</session>

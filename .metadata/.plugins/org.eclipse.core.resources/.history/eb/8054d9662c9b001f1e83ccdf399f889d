@@ -1,0 +1,22 @@
+package in.raghab.beans;
+
+import in.raghab.service.requirements.IPayment;
+
+//Target Class
+public class Restaurant {
+	private IPayment ipayment;
+	
+	//Constructor Injection
+	public Restaurant(IPayment ipayment) {
+		super();
+		System.out.println("Restaurant::1-arg-Constructor");
+		this.ipayment = ipayment;
+	}
+	
+	//Setter Injection
+	public void setIpayment(IPayment ipayment) {
+		this.ipayment = ipayment;
+	}
+	
+	
+}

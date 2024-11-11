@@ -1,0 +1,17 @@
+package in.raghab.beans;
+
+import in.raghab.strategyDP.IPartner;
+
+public class GirlFriend implements IPartner{
+
+	public GirlFriend() {
+		super();
+		System.out.println("GirlFriend::Constructor");
+	}
+	
+	@Override
+	public void marry(boolean money,boolean love) {
+		
+	}
+	
+}

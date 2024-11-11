@@ -1,0 +1,5 @@
+package in.raghab.service.requirements;
+
+public interface IPayment {
+
+}

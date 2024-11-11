@@ -1,0 +1,22 @@
+package in.raghab.test;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import in.raghab.beans.Restaurant;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int choice;
+		ApplicationContext applicationContext=
+				new ClassPathXmlApplicationContext("Spring-Beans.xml");
+		
+		
+		Restaurant restaurant = applicationContext.getBean("restaurantDebit", Restaurant.class);
+		
+		restaurant.bill();
+
+	}
+
+}

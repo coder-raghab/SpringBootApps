@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="printer" class="in.raghab.beans.HPPrinter"/>
+    <bean id="sp" class="in.raghab.beans.SonyPrinter" primary="true"/>
+    
+    
+    <bean id="atm" class="in.raghab.beans.ATM" autowire="byName"/>
+    <bean id="computer" class="in.raghab.beans.Computer" autowire="byType"/>
+
+</beans>

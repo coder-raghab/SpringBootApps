@@ -1,0 +1,5 @@
+package in.raghab.strategyDP;
+
+public interface IPartner {
+	void marry();
+}
