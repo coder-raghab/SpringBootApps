@@ -16,4 +16,5 @@
     <fullyQualifiedTypeName name="in.raghab.beans.ATM"/>
     <fullyQualifiedTypeName name="in.raghab.beans.IEmailService"/>
     <fullyQualifiedTypeName name="in.raghab.beans.UserService"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
 </qualifiedTypeNameHistroy>
