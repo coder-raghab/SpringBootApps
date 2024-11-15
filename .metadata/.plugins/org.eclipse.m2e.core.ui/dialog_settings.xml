@@ -50,6 +50,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="11_SpringCoreApp_SpringLifeCycle"/>
+			<item value="10_SpringJDBC_TxtFileRead_WriteInDB"/>
 			<item value="09_ProjectLombok_Test"/>
 			<item value="08_SpringCoreApp_AutoWiring_Multiple_DI"/>
 			<item value="05_SpringCoreApp_AutoWiring"/>
