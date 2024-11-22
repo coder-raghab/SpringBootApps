@@ -48,6 +48,8 @@ public class BookService {
 			line=bufferedReader.readLine();
 		}
 		System.out.println("Books are Inserted Successfuly in book table of springbootdb database.");
+		
 		bufferedReader.close();
+		fileReader.close();
 	}
 }

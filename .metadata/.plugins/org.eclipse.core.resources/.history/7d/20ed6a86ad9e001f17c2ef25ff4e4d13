@@ -1,5 +1,0 @@
-package in.raghab.beans;
-
-public class EmailServiceImpl implements IEmailService{
-
-}
