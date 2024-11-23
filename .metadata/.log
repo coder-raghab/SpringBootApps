@@ -7430,3 +7430,150 @@ org.eclipse.core.runtime.CoreException: Launch configuration Test (7) references
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 !SUBENTRY 1 org.eclipse.jdt.launching 4 124 2024-11-22 13:44:34.190
 !MESSAGE Launch configuration Test (7) references closed project 11_SpringJDBC_File2DB
+!SESSION 2024-11-22 14:49:52.789 -----------------------------------------------
+eclipse.buildId=4.33.0.202410162246
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-22 14:50:19.143
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-22 15:05:42.981
+!MESSAGE Logback config file: D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-22 15:05:44.176
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-22 15:05:44.176
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-22 15:05:44.823
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-22 15:05:44.823
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-22 15:05:52.779
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ragha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:06:01.714
+!MESSAGE Classpath changed for project: 13_SpringBootApp_IOC_DI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:06:01.716
+!MESSAGE Boot project ADDED: 13_SpringBootApp_IOC_DI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:06:01.718
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:06:01.795
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-22 15:06:01.830
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\sts-4.26.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/Ashok IT/52-SBMS_Paid_Course/Spring_App_STS_SBMS/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732268161829
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\sts-4.26.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.58.0.202410160331\servers\spring-boot-language-server\spring-boot-language-server-1.58.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:06:01.832
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-22 15:06:01.851
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 22940
+!SESSION 2024-11-23 09:22:14.144 -----------------------------------------------
+eclipse.buildId=4.33.0.202410162246
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 09:22:26.800
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 09:23:13.189
+!MESSAGE Logback config file: D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-23 09:23:13.641
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-23 09:23:13.641
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-23 09:23:13.927
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-23 09:23:13.927
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-23 09:23:18.192
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ragha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:23:18.423
+!MESSAGE Boot project ADDED: 13_SpringBootApp_IOC_DI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:23:18.433
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:23:18.495
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-23 09:23:18.524
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\sts-4.26.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/Ashok IT/52-SBMS_Paid_Course/Spring_App_STS_SBMS/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732333998523
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\sts-4.26.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.58.0.202410160331\servers\spring-boot-language-server\spring-boot-language-server-1.58.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:23:18.525
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-23 09:23:18.553
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 10100
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:25:11.700
+!MESSAGE Classpath changed for project: 14_Reflextion_SetterInjectionInternalMechanishm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:25:18.395
+!MESSAGE Classpath changed for project: 13_SpringBootApp_IOC_DI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 09:25:18.395
+!MESSAGE Boot project REMOVED: 13_SpringBootApp_IOC_DI
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 12:39:29.777
+!MESSAGE Classpath changed for project: 14_Reflextion_SetterInjectionInternalMechanishm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 12:40:07.310
+!MESSAGE Classpath changed for project: 14_Reflextion_SetterInjectionInternalMechanishm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 12:40:47.835
+!MESSAGE Classpath changed for project: 14_Reflextion_FieldInjection_Internals
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 12:40:47.835
+!MESSAGE Classpath changed for project: 14_Reflextion_SetterInjectionInternalMechanishm
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 12:40:57.000
+!MESSAGE Classpath changed for project: 14_Reflextion_FieldInjection_Internals
