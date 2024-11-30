@@ -37,7 +37,7 @@ public class Application {
 		
 		//userService.updateCountryByName("Sita", "India");
 		//userService.deleteByName("John");
-		userService.insertUser(201, "China",LocalDate.now(), "Male", null, "Palash");
+		//userService.insertUser(201, "China",LocalDate.now(), "Male", null, "Palash");
 	}
 
 }

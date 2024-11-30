@@ -4439,3 +4439,205 @@ org.eclipse.core.runtime.CoreException: Launch configuration Test (7) references
 2024-11-24 07:37:04,910 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-24 07:37:04,910 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\15_SpringBoot_Data_JPA\src\test\resources
 2024-11-26 08:36:15,158 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-27 12:17:26,319 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-28 09:00:26,206 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.raghab:16_SpringBoot_Data_JPA_CrudRepository:0.0.1-SNAPSHOT @ D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\pom.xml.
+2024-11-28 09:00:30,189 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/java
+2024-11-28 09:00:30,194 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:30,220 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:30,226 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/java
+2024-11-28 09:00:30,227 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/resources
+2024-11-28 09:00:34,034 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2024-11-28 09:00:34,043 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-28 09:00:34,478 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.raghab:16_SpringBoot_Data_JPA_CrudRepository:0.0.1-SNAPSHOT @ D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\pom.xml.
+2024-11-28 09:00:35,347 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/java
+2024-11-28 09:00:35,348 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:35,349 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:35,349 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/java
+2024-11-28 09:00:35,350 [Worker-19: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/resources
+2024-11-28 09:00:36,156 [Worker-19: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-11-28 09:00:37,051 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-28 09:00:37,580 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.raghab:16_SpringBoot_Data_JPA_CrudRepository:0.0.1-SNAPSHOT @ D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\pom.xml.
+2024-11-28 09:00:38,303 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/java
+2024-11-28 09:00:38,304 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:38,304 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/main/resources
+2024-11-28 09:00:38,305 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/java
+2024-11-28 09:00:38,305 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /16_SpringBoot_Data_JPA_CrudRepository/src/test/resources
+2024-11-28 09:00:38,578 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-11-28 09:00:39,431 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:00:39,445 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:00:39,449 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:05:06,682 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:05:06,697 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:05:06,705 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:06:02,883 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:06:02,888 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:06:02,892 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:06:05,408 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:06:05,412 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:06:05,419 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:07:45,074 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:07:45,092 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:07:45,095 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:09:15,402 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:09:15,408 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:09:15,411 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:21:39,407 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:21:39,448 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:21:39,454 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:23:22,327 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:23:22,337 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:23:22,348 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:24:19,624 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:24:19,634 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:24:19,641 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:38:52,146 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:38:52,211 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:38:52,224 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:44:29,519 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:44:29,837 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:44:29,845 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:44:36,874 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:44:36,890 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:44:36,895 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:45:18,744 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:45:18,855 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:45:18,864 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:45:24,944 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:45:25,083 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:45:25,090 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 09:45:34,672 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 09:45:34,685 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 09:45:34,692 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:25:53,502 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:25:53,625 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:25:53,632 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:30:05,768 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:30:05,961 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:30:05,965 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:30:55,553 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:30:55,664 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:30:55,670 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:34:51,006 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:34:51,216 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:34:51,224 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:37:28,471 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:37:28,520 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:37:28,522 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:40:35,588 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:40:35,594 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:40:35,597 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:41:15,209 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:41:15,214 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:41:15,217 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:43:43,544 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:43:43,549 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:43:43,551 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:46:51,146 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:46:51,229 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:46:51,231 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:47:19,325 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:47:19,428 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:47:19,430 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 10:58:04,082 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 10:58:04,211 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 10:58:04,216 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 11:00:38,385 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 11:00:38,388 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 11:00:38,392 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 11:01:34,497 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 11:01:34,517 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 11:01:34,520 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 11:08:14,158 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 11:08:14,201 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 11:08:14,206 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:00:15,839 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:00:15,953 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:00:15,959 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:02:47,555 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:02:47,564 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:02:47,567 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:03:29,164 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:03:29,202 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:03:29,211 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:04:27,131 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:04:27,140 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:04:27,145 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:10:55,278 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:10:55,309 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:10:55,313 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:11:04,778 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:11:04,787 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:11:04,790 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:11:54,316 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:11:54,322 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:11:54,326 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:13:00,067 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:13:00,076 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:13:00,079 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:44:45,962 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:44:46,008 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:44:46,018 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:50:15,232 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:50:15,561 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:50:15,564 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:51:30,174 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:51:30,235 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:51:30,238 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:51:35,840 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:51:35,898 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:51:35,903 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:52:41,132 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:52:41,135 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:52:41,140 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:53:47,872 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:53:47,882 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:53:47,885 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:54:33,560 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:54:33,564 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:54:33,569 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 12:59:52,681 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 12:59:52,715 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 12:59:52,719 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:01:22,372 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:01:22,394 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:01:22,398 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:06:33,690 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:06:33,695 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:06:33,698 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:07:58,022 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:07:58,049 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:07:58,051 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:12:11,123 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:12:11,135 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:12:11,139 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:13:41,776 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:13:41,869 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:13:41,878 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:14:51,616 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:14:51,682 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:14:51,684 [Worker-135: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:17:50,972 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:17:50,979 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:17:50,982 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:24:38,939 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:24:38,977 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:24:38,981 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:34:09,837 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:34:09,955 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:34:09,959 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:39:17,884 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:39:17,913 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:39:17,917 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:39:22,840 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:39:22,866 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:39:22,868 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:39:44,684 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:39:44,712 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:39:44,716 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:46:56,778 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:46:56,791 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:46:56,794 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-28 13:53:32,195 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-28 13:53:32,348 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-28 13:53:32,355 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Ashok IT\52-SBMS_Paid_Course\Spring_App_STS_SBMS\16_SpringBoot_Data_JPA_CrudRepository\src\test\resources
+2024-11-29 07:49:14,484 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.raghab.beans.Car"/>
-    <fullyQualifiedTypeName name="in.raghab.service.requirements.IPayment"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.Restaurant"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="in.raghab.strategyDP.IPartner"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.BoyFriend"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.service.IPrinter"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.ATM"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.IEmailService"/>
-    <fullyQualifiedTypeName name="in.raghab.beans.UserService"/>
-    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
     <fullyQualifiedTypeName name="lombok.ToString"/>
@@ -36,17 +23,13 @@
     <fullyQualifiedTypeName name="in.raghab.excel.ExcelGenerator"/>
     <fullyQualifiedTypeName name="in.raghab.beans.BookDTO"/>
     <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfDocument"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPTable"/>
     <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPCell"/>
     <fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
     <fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="in.raghab.pdf.PdfGenerator"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="in.raghab.service.ProductService"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
@@ -55,9 +38,26 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="in.raghab.dao.ProductDao"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
     <fullyQualifiedTypeName name="in.raghab.repository.EmployeeRepository"/>
     <fullyQualifiedTypeName name="in.raghab.entity.Employee"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.UpdateTimestamp"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="in.raghab.repo.UserRepository"/>
+    <fullyQualifiedTypeName name="in.raghab.entity.User"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="in.raghab.service.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.query.Param"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Modifying"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
 </qualifiedTypeNameHistroy>
